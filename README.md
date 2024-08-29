@@ -13,14 +13,14 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dark&hide_border=false&include_all_commits=true](https://github-readme-stats.vercel.app/api/top-langs?username=cadumorito&show_icons=true&locale=en&layout=compact)"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=cadumorito&show_icons=true&locale=en&layout=compact" alt="cadumorito"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="[https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact](https://github-readme-stats.vercel.app/api?username=cadumorito&show_icons=true&locale=en" alt="cadumorito"
+        src="https://github-readme-stats.vercel.app/api?username=cadumorito&show_icons=true&locale=en" alt="cadumorito"
         alt="Github Stats"
       />
     </td>
@@ -28,7 +28,7 @@
       <br />
       <img
         align="left"
-        src="[https://github-readme-streak-stats.herokuapp.com/?user=iuricode&theme=dark&hide_border=false](https://github-readme-streak-stats.herokuapp.com/?user=cadumorito&" alt="cadumorito)"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=cadumorito&" alt="cadumorito"
         alt="Github Stats"
       />
     </td>
@@ -48,3 +48,9 @@
 <p>&nbsp;<img align="center" src="" /></p>
 
 <p><img align="center" src="" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cadumorito&show_icons=true&locale=en&layout=compact" alt="cadumorito" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cadumorito&show_icons=true&locale=en" alt="cadumorito" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cadumorito&" alt="cadumorito" /></p>
