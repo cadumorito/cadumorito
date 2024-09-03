@@ -68,7 +68,6 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt=python width="60" height="60"/>
 	  <img style="margin: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt=nodejs width="60" height="60"/>
 	  <img style="margin: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt=typescript width="60" height="60"/>
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=bootstrap width="60" height="60"/>
 	  <img style="margin: auto;" src="https://static.vecteezy.com/system/resources/previews/021/059/825/original/chatgpt-logo-chat-gpt-icon-on-green-background-free-vector.jpg" alt=ia width="60" height="60"/>
   <img style="margin: auto;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt=figma width="60" height="60"/>
  
