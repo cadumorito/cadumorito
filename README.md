@@ -1,3 +1,5 @@
+<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
+
 # :sparkles: Be Welcome! :vulcan_salute:
 
 <h3 align="center">Full Stack Developer from Brazil</h3>
