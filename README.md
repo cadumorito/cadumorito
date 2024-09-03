@@ -49,6 +49,13 @@
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/django.png" alt=django width="60" height="60"/>
 	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
   <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt=sqlite3 width="60" height="60"/>
+  <img style="margin: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt=python width="60" height="60"/>
+	  <img style="margin: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt=nodejs width="60" height="60"/>
+	  <img style="margin: auto;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt=typescript width="60" height="60"/>
+	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=bootstrap width="60" height="60"/>
+	  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
+  <img style="margin: auto;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt=figma width="60" height="60"/>
  
 </p>
 
