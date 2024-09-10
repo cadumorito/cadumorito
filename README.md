@@ -8,7 +8,7 @@
 
 <br><br><br>
 
-<img align="right" alt="GIF" height="100px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="margin-top: 20px;">
+<img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="margin-top: 20px;">
 
 
 ## I'm a Systems Analysis and Development Student  
