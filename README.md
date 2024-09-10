@@ -11,7 +11,9 @@
 <img align="right" alt="GIF" height="200px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" style="margin-top: 20px;">
 
 
-## I'm a Systems Analysis and Development Student  
+---
+
+I'm a Systems Analysis and Development Student  
 
 - 👨‍💻 I’m currently studying Systems Analysis and Development
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
