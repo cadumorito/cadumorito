@@ -13,7 +13,7 @@
 
 ---
 
-<h1>I'm a Systems Analysis and Development Student</h1>
+  𝗜'𝗺 𝗮 𝗦𝘆𝘀𝘁𝗲𝗺𝘀 𝗔𝗻𝗮𝗹𝘆𝘀𝗶𝘀 𝗮𝗻𝗱 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗦𝘁𝘂𝗱𝗲𝗻𝘁
 
 - 👨‍💻 I’m currently studying Systems Analysis and Development
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
