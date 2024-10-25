@@ -18,7 +18,7 @@
 - 👨‍💻 I’m currently studying Systems Analysis and Development
 - 📚 I’m currently learning everything about Frontend and Backend technologies 😅
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
-- ⚡ Fun fact: I play Valorant and Rocket League.
+- ⚡ Fun fact: I like to read books and learn more about the things.
 
 ---
 
